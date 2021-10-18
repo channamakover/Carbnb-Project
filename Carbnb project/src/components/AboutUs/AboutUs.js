@@ -14,14 +14,6 @@ function AboutUs() {
             <p className="lines">...כל כך פשוט - פלא שלא חשבו על זה קודם</p>
             <p className="lines">!carbnb, כך שוכרים רכב היום</p>
             </div>
-
-
-
-
-
-
-
-            
         </div>
     )
 }
